@@ -20,10 +20,10 @@ In the real production environment give the following privileges:
 
 run the command:
 * aws configure
-AWS Access Key ID [None]: Access key here
-AWS Secret Access Key [None]: Secret key here
-Default region name [None]: us-east-1 (give any region you are creating you cluster)
-Default output format [None]: text
+- AWS Access Key ID [None]: Access key here
+- AWS Secret Access Key [None]: Secret key here
+- Default region name [None]: us-east-1 (give any region you are creating you cluster)
+- Default output format [None]: text
 
 ## Route53 configure
 Create Hosted zone
